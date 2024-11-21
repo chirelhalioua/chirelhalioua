@@ -11,7 +11,10 @@ Je m'appelle Chirel, diplômée d’un Bac+5 en management des solutions digital
 💬 N'hésitez pas à contribuer sur mes projets
 
 Mes stats GitHub :
-https://github-readme-stats.vercel.app/api?username=chirelhalioua&show_icons=true&hide_title=true 
+[https://github-readme-stats.vercel.app/api?username=chirelhalioua&show_icons=true&hide_title=true 
+](https://github-readme-stats.vercel.app/api?username=chirelhalioua&show_icons=true
+)
+
 
 📫 How to reach me:
 
