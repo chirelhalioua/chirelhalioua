@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bonjour tout le monde 👋
 
-<!--
-**chirelhalioua/chirelhalioua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Chirel, diplômée d’un Bac+5 en management des solutions digitales et data. Forte de 3 ans d’expérience en alternance dans le développement web, je suis passionnée par la technologie, autonome, et stimulée par les défis.Mon but ? Innover, collaborer et contribuer à des projets ambitieux où le travail en équipe fait toute la différence !
 
-Here are some ideas to get you started:
+🔭 Disponible immédiatement pour une opportunité en tant que développeuse full stack, je travaille sur différents projets pour développer mes compétences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Je continue d'apprendre différents frameworks tels que Symfony, Vue.js, Node.js ou encore le CMS Strapi.
+
+👯 Mon but est de collaborer avec des développeurs afin d'apprendre à leurs côtés et contribuer sur des projets innovants.
+
+💬 N'hésitez pas à contribuer sur mes projets
+
+📫 How to reach me:
+
+Email : chirelhalioua@gmail.com
+
+LinkedIn : https://linkedin.com/in/chirel-halioua/
+
