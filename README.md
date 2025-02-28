@@ -1,6 +1,6 @@
 # Bonjour, je suis Chirel Halioua ! 👋
 
-Bienvenue sur mon profil GitHub ! Je suis passionné par la technologie, le codage et l'apprentissage continu. Voici un peu plus sur moi :
+Bienvenue sur mon profil GitHub ! Je suis passionnée par la technologie, le codage et l'apprentissage continu. Voici un peu plus sur moi :
 
 ![Vues du profil](https://komarev.com/ghpvc/?username=chirelhalioua&color=blue)
 
@@ -32,19 +32,14 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par la technologie, le coda
 
 Un projet innovant pour suivre et analyser vos humeurs au quotidien. Il utilise des technologies modernes pour vous aider à mieux comprendre et gérer vos émotions.
 
-[![Voir le projet](https://img.shields.io/badge/-Voir%20le%20projet-FF69B4?style=flat&logo=github)](https://github.com/chirelhalioua/suivi-humeurs) <!-- Couleur : #FF69B4 -->
-
 ### Suite de Cuisine
 
-Une application complète pour organiser et gérer vos recettes de cuisine. Elle offre des fonctionnalités pour créer, modifier et partager vos recettes facilement.
-
-[![Voir le projet](https://img.shields.io/badge/-Voir%20le%20projet-FF69B4?style=flat&logo=github)](https://github.com/chirelhalioua/mon-site-de-cuisine ) <!-- Couleur : #FF69B4 -->
+Un site de recettes qui permet de cuisiner efficacement et rapidement avec seulement 5 ingrédients. Le but ? réduire le gaspillage. 
 
 
 ## 🔗 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8B4513?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile) <!-- Couleur : #8B4513 -->
-[![Twitter](https://img.shields.io/badge/-Twitter-FFB6C1?style=flat&logo=twitter)](https://twitter.com/yourprofile) <!-- Couleur : #FFB6C1 -->
-[![Site Personnel](https://img.shields.io/badge/-Site%20Personnel-FF69B4?style=flat&logo=google-chrome)](https://yourwebsite.com) <!-- Couleur : #FF69B4 -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8B4513?style=flat&logo=linkedin)](https://www.linkedin.com/in/chirel-halioua) <!-- Couleur : #8B4513 -->
+
 
 Merci d'avoir visité mon profil ! N'hésitez pas à consulter mes dépôts et à me contacter si vous souhaitez collaborer sur un projet.
