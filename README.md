@@ -1,36 +1,51 @@
-## Bonjour tout le monde 👋
+# Bonjour, je suis Chirel Halioua ! 👋
 
-Je m'appelle **Chirel**, diplômée d’un Bac+5 en **management des solutions digitales et data**. Passionnée par la **technologie**, **autonome**, et stimulée par les défis, je cherche à innover et collaborer dans des projets ambitieux.
+Bienvenue sur mon profil GitHub ! Je suis passionné par la technologie, le codage et l'apprentissage continu. Voici un peu plus sur moi :
 
-🔭 **Disponible immédiatement pour une opportunité en tant que développeuse full stack**, je travaille sur des projets pour perfectionner mes compétences, principalement dans **Symfony**, **Vue.js**, **Node.js**, et **Strapi**.
+![Vues du profil](https://komarev.com/ghpvc/?username=chirelhalioua&color=blue)
 
-🌱 J'adore apprendre de nouveaux frameworks et outils, et je suis toujours à la recherche de nouvelles compétences.
+## 🚀 À propos de moi
 
-👯 Mon objectif est de **collaborer avec d'autres développeurs** pour contribuer à des projets innovants et partager mes connaissances.
+- 🌱 J’apprends actuellement de nouvelles technologies et j'améliore mes compétences en codage.
+- 👯 Je cherche à collaborer sur des projets passionnants qui font la différence.
+- 💬 N'hésitez pas à me poser des questions sur la technologie, le codage et la résolution de problèmes.
+- 📫 Comment me contacter : [Votre Email](mailto:your.email@example.com)
+- ⚡ Fait amusant : J'aime explorer de nouveaux endroits et cultures.
 
----
+## 🛠️ Technologies & Outils
 
-### 🛠️ **Mes stats GitHub** :
-Voici un aperçu de mes contributions et mon activité GitHub. Vous pouvez voir mon nombre de commits, mon activité récente et plus encore :
+![Python](https://img.shields.io/badge/-Python-8B4513?style=flat&logo=python) <!-- Couleur : #8B4513 -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFB6C1?style=flat&logo=javascript) <!-- Couleur : #FFB6C1 -->
+![React](https://img.shields.io/badge/-React-FF69B4?style=flat&logo=react) <!-- Couleur : #FF69B4 -->
+![Node.js](https://img.shields.io/badge/-Node.js-8B4513?style=flat&logo=node.js) <!-- Couleur : #8B4513 -->
+![Git](https://img.shields.io/badge/-Git-FFB6C1?style=flat&logo=git) <!-- Couleur : #FFB6C1 -->
+![GitHub](https://img.shields.io/badge/-GitHub-FF69B4?style=flat&logo=github) <!-- Couleur : #FF69B4 -->
+![VS Code](https://img.shields.io/badge/-VS%20Code-8B4513?style=flat&logo=visual-studio-code) <!-- Couleur : #8B4513 -->
 
-![Chirel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chirelhalioua&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&bg_color=3B3020&text_color=C69758)
+## 📈 Statistiques GitHub
 
----
+![Statistiques GitHub de Chirel Halioua](https://github-readme-stats.vercel.app/api?username=chirelhalioua&show_icons=true&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=chirelhalioua&layout=compact&theme=radical)
 
-### 💻 **Langages que j'utilise le plus** :
-Voici un aperçu des langages que j'utilise dans mes projets GitHub. Le graphique montre la répartition de mes langages préférés :
+## 💡 Projets
 
-![Chirel's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirelhalioua&show_icons=true&hide_title=true&layout=compact&theme=radical&bg_color=3B3020&text_color=C69758)
+### Suivi Humeurs
 
----
+Un projet innovant pour suivre et analyser vos humeurs au quotidien. Il utilise des technologies modernes pour vous aider à mieux comprendre et gérer vos émotions.
 
-### 📫 **Comment me contacter** ?
-Je serais ravie de discuter de nouvelles opportunités ou de projets passionnants !
+[![Voir le projet](https://img.shields.io/badge/-Voir%20le%20projet-FF69B4?style=flat&logo=github)](https://github.com/chirelhalioua/suivi-humeurs) <!-- Couleur : #FF69B4 -->
 
-- 📧 Email : [chirelhalioua@gmail.com](mailto:chirelhalioua@gmail.com)
-- 🌐 LinkedIn : [chirel-halioua](https://linkedin.com/in/chirel-halioua/)
-- 💼 Portfolio : [Lien vers portfolio](https://chirelhalioua.github.io/portfolio/)
+### Suite de Cuisine
 
----
+Une application complète pour organiser et gérer vos recettes de cuisine. Elle offre des fonctionnalités pour créer, modifier et partager vos recettes facilement.
 
-Merci d'avoir pris le temps de lire mon `README.md`. N'hésitez pas à me contacter, à contribuer à mes projets, ou à échanger des idées ! 😊
+[![Voir le projet](https://img.shields.io/badge/-Voir%20le%20projet-FF69B4?style=flat&logo=github)](https://github.com/chirelhalioua/suite-de-cuisine) <!-- Couleur : #FF69B4 -->
+
+
+## 🔗 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8B4513?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile) <!-- Couleur : #8B4513 -->
+[![Twitter](https://img.shields.io/badge/-Twitter-FFB6C1?style=flat&logo=twitter)](https://twitter.com/yourprofile) <!-- Couleur : #FFB6C1 -->
+[![Site Personnel](https://img.shields.io/badge/-Site%20Personnel-FF69B4?style=flat&logo=google-chrome)](https://yourwebsite.com) <!-- Couleur : #FF69B4 -->
+
+Merci d'avoir visité mon profil ! N'hésitez pas à consulter mes dépôts et à me contacter si vous souhaitez collaborer sur un projet.
