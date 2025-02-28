@@ -25,6 +25,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionnée par la technologie, le cod
 ## 📈 Statistiques GitHub
 
 ![Statistiques GitHub de Chirel Halioua](https://github-readme-stats.vercel.app/api?username=chirelhalioua&show_icons=true&theme=default&bg_color=FFB6C1)
+
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=chirelhalioua&layout=compact&theme=default&bg_color=FFB6C1)
 
 ## 💡 Projets
@@ -32,11 +33,13 @@ Bienvenue sur mon profil GitHub ! Je suis passionnée par la technologie, le cod
 ### Suivi Humeurs
 
 [![Suivi Humeurs](https://github-readme-stats.vercel.app/api/pin/?username=chirelhalioua&repo=suivi-humeurs-funes&theme=default&bg_color=FFB6C1)](https://github.com/chirelhalioua/suivi-humeurs-funes)
+
 Un projet innovant pour suivre et analyser vos humeurs au quotidien. Il utilise des technologies modernes pour vous aider à mieux comprendre et gérer vos émotions.
 
 ### Site de Cuisine
 
 [![Site de Cuisine](https://github-readme-stats.vercel.app/api/pin/?username=chirelhalioua&repo=mon-site-de-cuisine&theme=default&bg_color=FFB6C1)](https://github.com/chirelhalioua/mon-site-de-cuisine)
+
 Un site de recettes qui permet de cuisiner efficacement et rapidement avec seulement 5 ingrédients. Le but ? réduire le gaspillage.
 
 ## 🔗 Me contacter
