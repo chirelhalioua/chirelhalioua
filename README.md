@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub ! Je suis passionnée par la technologie, le cod
 - 🌱 J’apprends actuellement de nouvelles technologies et j'améliore mes compétences en codage.
 - 👯 Je cherche à collaborer sur des projets passionnants qui font la différence.
 - 💬 N'hésitez pas à me poser des questions sur la technologie, le codage et la résolution de problèmes.
-- 📫 Comment me contacter : (mailto: chirelhalioua@gmail.com)
+- 📫 Comment me contacter : chirelhalioua@gmail.com
 - ⚡ Fait amusant : J'aime explorer de nouveaux endroits et cultures.
 
 ## 🛠️ Technologies & Outils
