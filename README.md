@@ -14,9 +14,8 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par la technologie, le coda
 
 ## 🛠️ Technologies & Outils
 
-![Python](https://img.shields.io/badge/-Python-8B4513?style=flat&logo=python) <!-- Couleur : #8B4513 -->
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB6C1?style=flat&logo=javascript) <!-- Couleur : #FFB6C1 -->
-![React](https://img.shields.io/badge/-React-FF69B4?style=flat&logo=react) <!-- Couleur : #FF69B4 -->
 ![Node.js](https://img.shields.io/badge/-Node.js-8B4513?style=flat&logo=node.js) <!-- Couleur : #8B4513 -->
 ![Git](https://img.shields.io/badge/-Git-FFB6C1?style=flat&logo=git) <!-- Couleur : #FFB6C1 -->
 ![GitHub](https://img.shields.io/badge/-GitHub-FF69B4?style=flat&logo=github) <!-- Couleur : #FF69B4 -->
@@ -39,7 +38,7 @@ Un projet innovant pour suivre et analyser vos humeurs au quotidien. Il utilise 
 
 Une application complète pour organiser et gérer vos recettes de cuisine. Elle offre des fonctionnalités pour créer, modifier et partager vos recettes facilement.
 
-[![Voir le projet](https://img.shields.io/badge/-Voir%20le%20projet-FF69B4?style=flat&logo=github)](https://github.com/chirelhalioua/suite-de-cuisine) <!-- Couleur : #FF69B4 -->
+[![Voir le projet](https://img.shields.io/badge/-Voir%20le%20projet-FF69B4?style=flat&logo=github)](https://github.com/chirelhalioua/mon-site-de-cuisine ) <!-- Couleur : #FF69B4 -->
 
 
 ## 🔗 Me contacter
