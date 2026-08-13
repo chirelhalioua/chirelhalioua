@@ -27,8 +27,6 @@ Bienvenue sur mon profil GitHub ! Je suis passionnée par la technologie, le cod
 
 ### Suivi Humeurs
 
-[![Suivi Humeurs](https://github-readme-stats.vercel.app/api/pin/?username=chirelhalioua&repo=suivi-humeurs-funes&theme=default&bg_color=FFB6C1)](https://github.com/chirelhalioua/suivi-humeurs-funes)
-
 Un projet innovant pour suivre et analyser vos humeurs au quotidien. Il utilise des technologies modernes pour vous aider à mieux comprendre et gérer vos émotions.
 
 ## 🔗 Me contacter
