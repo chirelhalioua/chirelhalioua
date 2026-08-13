@@ -22,11 +22,6 @@ Bienvenue sur mon profil GitHub ! Je suis passionnée par la technologie, le cod
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js) <!-- Couleur : #4FC08D -->
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js) <!-- Couleur : #00C58E -->
 
-## 📈 Statistiques GitHub
-
-![Statistiques GitHub de Chirel Halioua](https://github-readme-stats.vercel.app/api?username=chirelhalioua&show_icons=true&theme=default&bg_color=FFB6C1)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=chirelhalioua&layout=compact&theme=default&bg_color=FFB6C1)
 
 ## 💡 Projets
 
