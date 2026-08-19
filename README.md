@@ -23,12 +23,6 @@ Bienvenue sur mon profil GitHub ! Je suis passionnée par la technologie, le cod
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js) <!-- Couleur : #00C58E -->
 
 
-## 💡 Projets
-
-### Suivi Humeurs
-
-Un projet innovant pour suivre et analyser vos humeurs au quotidien. Il utilise des technologies modernes pour vous aider à mieux comprendre et gérer vos émotions.
-
 ## 🔗 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-8B4513?style=flat&logo=linkedin)](https://www.linkedin.com/in/chirel-halioua) <!-- Couleur : #8B4513 -->
