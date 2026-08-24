@@ -8,7 +8,7 @@ Je conçois des expériences web utiles, accessibles et soignées,
 de l’idée jusqu’à la mise en ligne.
 
 <a href="https://chirelhalioua.fr/" title="Portfolio">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Chrome.svg" width="30" height="30" alt="Portfolio">
+  <img src="https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png" width="30" height="30" alt="Portfolio">
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/chirel-halioua" title="LinkedIn">
@@ -101,7 +101,7 @@ Projet web consacré à la création d’une carte d’invitation numérique.
 
 <p align="center">
 <a href="https://chirelhalioua.fr/" title="Portfolio">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Chrome.svg" width="30" height="30" alt="Portfolio">
+  <img src="https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png" width="30" height="30" alt="Portfolio">
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/chirel-halioua" title="LinkedIn">
