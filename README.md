@@ -16,7 +16,7 @@ de l’idée jusqu’à la mise en ligne.
 </a>
 &nbsp;&nbsp;
 <a href="mailto:chirelhalioua@gmail.com" title="E-mail">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="30" height="30" alt="E-mail">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="E-mail">
 </a>
 
 </div>
@@ -109,7 +109,7 @@ Projet web consacré à la création d’une carte d’invitation numérique.
 </a>
 &nbsp;&nbsp;
 <a href="mailto:chirelhalioua@gmail.com" title="E-mail">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="30" height="30" alt="E-mail">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="E-mail">
 </a>
 </p>
 
