@@ -7,8 +7,8 @@
 Je conçois des expériences web utiles, accessibles et soignées,  
 de l’idée jusqu’à la mise en ligne.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chirelhalioua.fr-F4CF2C?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://chirelhalioua.fr/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirel_Halioua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chirelhalioua.fr-F4CF2C?style=flat-square&logo=googlechrome&logoColor=111111)](https://chirelhalioua.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirel_Halioua-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
 
 </div>
 
@@ -87,27 +87,9 @@ Projet web consacré à la création d’une carte d’invitation numérique.
 
 ### Me contacter
 
-<p align="center">
-  <a href="https://chirelhalioua.fr/" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/googlechrome/F4CF2C" width="42" height="42" alt="Portfolio">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/chirel-halioua" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:chirelhalioua@gmail.com" title="E-mail">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="E-mail">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://chirelhalioua.fr/">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/chirel-halioua">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:chirelhalioua@gmail.com">E-mail</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-F4CF2C?style=flat-square&logo=googlechrome&logoColor=111111)](https://chirelhalioua.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chirelhalioua@gmail.com)
 
 <br>
 
