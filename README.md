@@ -53,7 +53,7 @@ Application interactive d’apprentissage du Code de la route fondée sur trois 
 
 L’utilisateur découvre une situation, observe un changement avec « ET SI… ? », puis choisit la réaction la plus adaptée.
 
-[![Site](https://img.shields.io/badge/Tester_le_projet-ET_SI_?-F4CF2C?style=for-the-badge&logo=vercel&logoColor=111111)](https://et-si-code-one.vercel.app/)
+[![Site](https://img.shields.io/badge/Tester_le_projet-En_ligne-F4CF2C?style=for-the-badge&logo=vercel&logoColor=111111)](https://et-si-code-one.vercel.app/)
 [![Code](https://img.shields.io/badge/Voir_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirelhalioua/et-si-code)
 
 ### 🎭 [Les humeurs à la Funès](https://github.com/chirelhalioua/suivi-humeurs-funes)
@@ -61,14 +61,14 @@ L’utilisateur découvre une situation, observe un changement avec « ET SI… 
 Application web de suivi des émotions inspirée de l’univers de Louis de Funès.  
 Elle permet de choisir son humeur et de suivre son évolution au fil du temps.
 
-[![Site](https://img.shields.io/badge/Tester_le_projet-Les_humeurs-00DC82?style=for-the-badge&logo=vercel&logoColor=white)](https://suivi-humeurs-funes.vercel.app/)
+[![Site](https://img.shields.io/badge/Tester_le_projet-En_ligne-F4CF2C?style=for-the-badge&logo=vercel&logoColor=111111)](https://suivi-humeurs-funes.vercel.app/)
 [![Code](https://img.shields.io/badge/Voir_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirelhalioua/suivi-humeurs-funes)
 
 ### ✉️ [Invitation Card](https://github.com/chirelhalioua/invitation-card)
 
 Projet web consacré à la création d’une carte d’invitation numérique.
 
-[![Site](https://img.shields.io/badge/Tester_le_projet-Invitation_Card-D46A92?style=for-the-badge&logo=vercel&logoColor=white)](https://invitation-card-six-eta.vercel.app/)
+[![Site](https://img.shields.io/badge/Tester_le_projet-En_ligne-F4CF2C?style=for-the-badge&logo=vercel&logoColor=111111)](https://invitation-card-six-eta.vercel.app/)
 [![Code](https://img.shields.io/badge/Voir_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirelhalioua/invitation-card)
 
 ---
@@ -87,9 +87,27 @@ Projet web consacré à la création d’une carte d’invitation numérique.
 
 ### Me contacter
 
-[![Email](https://img.shields.io/badge/Email-chirelhalioua%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chirelhalioua@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirel_Halioua-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
-[![Portfolio](https://img.shields.io/badge/Portfolio-chirelhalioua.fr-F4CF2C?style=flat-square&logo=googlechrome&logoColor=111111)](https://chirelhalioua.fr/)
+<p align="center">
+  <a href="https://chirelhalioua.fr/" title="Portfolio">
+    <img src="https://cdn.simpleicons.org/googlechrome/F4CF2C" width="42" height="42" alt="Portfolio">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chirel-halioua" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:chirelhalioua@gmail.com" title="E-mail">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="E-mail">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://chirelhalioua.fr/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/chirel-halioua">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:chirelhalioua@gmail.com">E-mail</a>
+</p>
 
 <br>
 
