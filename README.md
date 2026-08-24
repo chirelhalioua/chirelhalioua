@@ -1,30 +1,91 @@
-# Bonjour, je suis Chirel Halioua ! 👋
+<div align="center">
 
-Bienvenue sur mon profil GitHub ! Je suis passionnée par la technologie, le codage et l'apprentissage continu. Voici un peu plus sur moi :
+# Bonjour, moi c'est Chirel 👋
 
-![Vues du profil](https://komarev.com/ghpvc/?username=chirelhalioua&color=blue)
+### Développeuse web · Projets digitaux · Paris
 
-## 🚀 À propos de moi
+Je conçois des expériences web utiles, accessibles et soignées,  
+de l’idée jusqu’à la mise en ligne.
 
-- 🌱 J’apprends actuellement de nouvelles technologies et j'améliore mes compétences en codage.
-- 👯 Je cherche à collaborer sur des projets passionnants qui font la différence.
-- 💬 N'hésitez pas à me poser des questions sur la technologie, le codage et la résolution de problèmes.
-- 📫 Comment me contacter : chirelhalioua@gmail.com
-- ⚡ Fait amusant : J'aime explorer de nouveaux endroits et cultures.
+[![Portfolio](https://img.shields.io/badge/Portfolio-chirelhalioua.fr-F4CF2C?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://chirelhalioua.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirel_Halioua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
 
-## 🛠️ Technologies & Outils
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFB6C1?style=flat&logo=javascript) <!-- Couleur : #FFB6C1 -->
-![Node.js](https://img.shields.io/badge/-Node.js-8B4513?style=flat&logo=node.js) <!-- Couleur : #8B4513 -->
-![Git](https://img.shields.io/badge/-Git-FFB6C1?style=flat&logo=git) <!-- Couleur : #FFB6C1 -->
-![GitHub](https://img.shields.io/badge/-GitHub-FF69B4?style=flat&logo=github) <!-- Couleur : #FF69B4 -->
-![VS Code](https://img.shields.io/badge/-VS%20Code-8B4513?style=flat&logo=visual-studio-code) <!-- Couleur : #8B4513 -->
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js) <!-- Couleur : #4FC08D -->
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js) <!-- Couleur : #00C58E -->
+---
 
+## À propos de moi
 
-## 🔗 Me contacter
+- 🎓 Diplômée d’un **Bac+5 en management de solutions digitales et data**
+- 💻 Expérience en développement web, notamment avec **Vue.js** et **Nuxt.js**
+- 🎨 Attentive à l’interface, à l’expérience utilisateur et aux détails visuels
+- 🚀 J’aime transformer une idée en projet concret, fonctionnel et déployé
+- 📍 Basée à Paris
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8B4513?style=flat&logo=linkedin)](https://www.linkedin.com/in/chirel-halioua) <!-- Couleur : #8B4513 -->
+---
 
-Merci d'avoir visité mon profil ! N'hésitez pas à consulter mes dépôts et à me contacter si vous souhaitez collaborer sur un projet.
+## Technologies et outils
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## Mes projets
+
+### 🚗 [ET SI ?](https://github.com/chirelhalioua/et-si-code)
+
+Application interactive d’apprentissage du Code de la route fondée sur trois actions :
+
+**Observer → Anticiper → Décider**
+
+L’utilisateur découvre une situation, observe un changement avec « ET SI… ? », puis choisit la réaction la plus adaptée.
+
+[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-en_ligne-F4CF2C?style=flat-square&logo=vercel&logoColor=111111)](https://et-si-code-one.vercel.app/)
+
+### 🎭 [Les humeurs à la Funès](https://github.com/chirelhalioua/suivi-humeurs-funes)
+
+Application web de suivi des émotions inspirée de l’univers de Louis de Funès.  
+Elle permet de choisir son humeur et de suivre son évolution au fil du temps.
+
+### ✉️ [Invitation Card](https://github.com/chirelhalioua/invitation-card)
+
+Projet web consacré à la création d’une carte d’invitation numérique.
+
+---
+
+## Ce que j’aime créer
+
+- Des interfaces modernes et responsives
+- Des applications web simples à comprendre
+- Des parcours utilisateurs fluides
+- Des projets numériques ayant une identité visuelle forte
+- Des fonctionnalités concrètes répondant à un besoin réel
+
+---
+
+<div align="center">
+
+### Me contacter
+
+[![Email](https://img.shields.io/badge/Email-chirelhalioua%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chirelhalioua@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirel_Halioua-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chirelhalioua.fr-F4CF2C?style=flat-square&logo=googlechrome&logoColor=111111)](https://chirelhalioua.fr/)
+
+<br>
+
+![Vues du profil](https://komarev.com/ghpvc/?username=chirelhalioua&color=F4CF2C&style=flat-square&label=Vues+du+profil)
+
+</div>
