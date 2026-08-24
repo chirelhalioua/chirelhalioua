@@ -7,8 +7,8 @@
 Je conçois des expériences web utiles, accessibles et soignées,  
 de l’idée jusqu’à la mise en ligne.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chirelhalioua.fr-F4CF2C?style=flat-square&logo=googlechrome&logoColor=111111)](https://chirelhalioua.fr/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirel_Halioua-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chirelhalioua.fr-B8A1E3?style=flat-square&logo=googlechrome&logoColor=white)](https://chirelhalioua.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirel_Halioua-6E9ECF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
 
 </div>
 
@@ -87,12 +87,12 @@ Projet web consacré à la création d’une carte d’invitation numérique.
 
 ### Me contacter
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F4CF2C?style=flat-square&logo=googlechrome&logoColor=111111)](https://chirelhalioua.fr/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chirelhalioua@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B8A1E3?style=flat-square&logo=googlechrome&logoColor=white)](https://chirelhalioua.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E9ECF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
+[![E-mail](https://img.shields.io/badge/E--mail-D98292?style=flat-square&logo=gmail&logoColor=white)](mailto:chirelhalioua@gmail.com)
 
 <br>
 
-![Vues du profil](https://komarev.com/ghpvc/?username=chirelhalioua&color=F4CF2C&style=flat-square&label=Vues+du+profil)
+![Vues du profil](https://komarev.com/ghpvc/?username=chirelhalioua&color=B8A1E3&style=flat-square&label=Vues+du+profil)
 
 </div>
