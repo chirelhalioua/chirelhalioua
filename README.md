@@ -53,16 +53,23 @@ Application interactive d’apprentissage du Code de la route fondée sur trois 
 
 L’utilisateur découvre une situation, observe un changement avec « ET SI… ? », puis choisit la réaction la plus adaptée.
 
-[![Voir le projet](https://img.shields.io/badge/Voir_le_projet-en_ligne-F4CF2C?style=flat-square&logo=vercel&logoColor=111111)](https://et-si-code-one.vercel.app/)
+[![Site](https://img.shields.io/badge/Tester_le_projet-ET_SI_?-F4CF2C?style=for-the-badge&logo=vercel&logoColor=111111)](https://et-si-code-one.vercel.app/)
+[![Code](https://img.shields.io/badge/Voir_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirelhalioua/et-si-code)
 
 ### 🎭 [Les humeurs à la Funès](https://github.com/chirelhalioua/suivi-humeurs-funes)
 
 Application web de suivi des émotions inspirée de l’univers de Louis de Funès.  
 Elle permet de choisir son humeur et de suivre son évolution au fil du temps.
 
+[![Site](https://img.shields.io/badge/Tester_le_projet-Les_humeurs-00DC82?style=for-the-badge&logo=vercel&logoColor=white)](https://suivi-humeurs-funes.vercel.app/)
+[![Code](https://img.shields.io/badge/Voir_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirelhalioua/suivi-humeurs-funes)
+
 ### ✉️ [Invitation Card](https://github.com/chirelhalioua/invitation-card)
 
 Projet web consacré à la création d’une carte d’invitation numérique.
+
+[![Site](https://img.shields.io/badge/Tester_le_projet-Invitation_Card-D46A92?style=for-the-badge&logo=vercel&logoColor=white)](https://invitation-card-six-eta.vercel.app/)
+[![Code](https://img.shields.io/badge/Voir_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirelhalioua/invitation-card)
 
 ---
 
