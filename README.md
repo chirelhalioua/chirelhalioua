@@ -53,23 +53,35 @@ Application interactive d’apprentissage du Code de la route fondée sur trois 
 
 L’utilisateur découvre une situation, observe un changement avec « ET SI… ? », puis choisit la réaction la plus adaptée.
 
-[![Site](https://img.shields.io/badge/Tester_le_projet-En_ligne-F4CF2C?style=for-the-badge&logo=vercel&logoColor=111111)](https://et-si-code-one.vercel.app/)
-[![Code](https://img.shields.io/badge/Voir_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirelhalioua/et-si-code)
+<a href="https://et-si-code-one.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img alt="Tester le projet" src="https://img.shields.io/badge/Tester_le_projet-En_ligne-E2BE4F?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="https://github.com/chirelhalioua/et-si-code" target="_blank" rel="noopener noreferrer">
+  <img alt="Voir le code" src="https://img.shields.io/badge/Voir_le_code-GitHub-5D6470?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ### 🎭 [Les humeurs à la Funès](https://github.com/chirelhalioua/suivi-humeurs-funes)
 
 Application web de suivi des émotions inspirée de l’univers de Louis de Funès.  
 Elle permet de choisir son humeur et de suivre son évolution au fil du temps.
 
-[![Site](https://img.shields.io/badge/Tester_le_projet-En_ligne-F4CF2C?style=for-the-badge&logo=vercel&logoColor=111111)](https://suivi-humeurs-funes.vercel.app/)
-[![Code](https://img.shields.io/badge/Voir_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirelhalioua/suivi-humeurs-funes)
+<a href="https://suivi-humeurs-funes.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img alt="Tester le projet" src="https://img.shields.io/badge/Tester_le_projet-En_ligne-72B6A1?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="https://github.com/chirelhalioua/suivi-humeurs-funes" target="_blank" rel="noopener noreferrer">
+  <img alt="Voir le code" src="https://img.shields.io/badge/Voir_le_code-GitHub-5D6470?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ### ✉️ [Invitation Card](https://github.com/chirelhalioua/invitation-card)
 
 Projet web consacré à la création d’une carte d’invitation numérique.
 
-[![Site](https://img.shields.io/badge/Tester_le_projet-En_ligne-F4CF2C?style=for-the-badge&logo=vercel&logoColor=111111)](https://invitation-card-six-eta.vercel.app/)
-[![Code](https://img.shields.io/badge/Voir_le_code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirelhalioua/invitation-card)
+<a href="https://invitation-card-six-eta.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img alt="Tester le projet" src="https://img.shields.io/badge/Tester_le_projet-En_ligne-D98292?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="https://github.com/chirelhalioua/invitation-card" target="_blank" rel="noopener noreferrer">
+  <img alt="Voir le code" src="https://img.shields.io/badge/Voir_le_code-GitHub-5D6470?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
