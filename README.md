@@ -7,15 +7,15 @@
 Je conçois des expériences web utiles, accessibles et soignées,  
 de l’idée jusqu’à la mise en ligne.
 
-<a href="https://chirelhalioua.fr/" title="Portfolio">
+<a href="https://chirelhalioua.fr/" target="_blank" rel="noopener noreferrer" title="Portfolio">
   <img src="https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png" width="30" height="30" alt="Portfolio">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chirel-halioua" title="LinkedIn">
+<a href="https://www.linkedin.com/in/chirel-halioua" target="_blank" rel="noopener noreferrer" title="LinkedIn">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="30" height="30" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
-<a href="mailto:chirelhalioua@gmail.com" title="E-mail">
+<a href="mailto:chirelhalioua@gmail.com" target="_blank" rel="noopener noreferrer" title="E-mail">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="E-mail">
 </a>
 
@@ -54,7 +54,7 @@ de l’idée jusqu’à la mise en ligne.
 
 ## Mes projets
 
-### 🚗 [ET SI ?](https://github.com/chirelhalioua/et-si-code)
+<h3>🚗 <a href="https://github.com/chirelhalioua/et-si-code" target="_blank" rel="noopener noreferrer">ET SI ?</a></h3>
 
 Application interactive d’apprentissage du Code de la route fondée sur trois actions :
 
@@ -66,7 +66,7 @@ L’utilisateur découvre une situation, observe un changement avec « ET SI… 
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/chirelhalioua/et-si-code" target="_blank" rel="noopener noreferrer">⌨️ Voir le code</a>
 
-### 🎭 [Les humeurs à la Funès](https://github.com/chirelhalioua/suivi-humeurs-funes)
+<h3>🎭 <a href="https://github.com/chirelhalioua/suivi-humeurs-funes" target="_blank" rel="noopener noreferrer">Les humeurs à la Funès</a></h3>
 
 Application web de suivi des émotions inspirée de l’univers de Louis de Funès.  
 Elle permet de choisir son humeur et de suivre son évolution au fil du temps.
@@ -75,7 +75,7 @@ Elle permet de choisir son humeur et de suivre son évolution au fil du temps.
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/chirelhalioua/suivi-humeurs-funes" target="_blank" rel="noopener noreferrer">⌨️ Voir le code</a>
 
-### ✉️ [Invitation Card](https://github.com/chirelhalioua/invitation-card)
+<h3>✉️ <a href="https://github.com/chirelhalioua/invitation-card" target="_blank" rel="noopener noreferrer">Invitation Card</a></h3>
 
 Projet web consacré à la création d’une carte d’invitation numérique.
 
@@ -100,15 +100,15 @@ Projet web consacré à la création d’une carte d’invitation numérique.
 ### Me contacter
 
 <p align="center">
-<a href="https://chirelhalioua.fr/" title="Portfolio">
+<a href="https://chirelhalioua.fr/" target="_blank" rel="noopener noreferrer" title="Portfolio">
   <img src="https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png" width="30" height="30" alt="Portfolio">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chirel-halioua" title="LinkedIn">
+<a href="https://www.linkedin.com/in/chirel-halioua" target="_blank" rel="noopener noreferrer" title="LinkedIn">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="30" height="30" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
-<a href="mailto:chirelhalioua@gmail.com" title="E-mail">
+<a href="mailto:chirelhalioua@gmail.com" target="_blank" rel="noopener noreferrer" title="E-mail">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="E-mail">
 </a>
 </p>
