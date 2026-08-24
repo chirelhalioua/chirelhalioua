@@ -7,8 +7,17 @@
 Je conçois des expériences web utiles, accessibles et soignées,  
 de l’idée jusqu’à la mise en ligne.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chirelhalioua.fr-B8A1E3?style=flat-square&logo=googlechrome&logoColor=white)](https://chirelhalioua.fr/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirel_Halioua-6E9ECF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
+<a href="https://chirelhalioua.fr/" title="Portfolio">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Chrome.svg" width="30" height="30" alt="Portfolio">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chirel-halioua" title="LinkedIn">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="30" height="30" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:chirelhalioua@gmail.com" title="E-mail">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="30" height="30" alt="E-mail">
+</a>
 
 </div>
 
@@ -90,9 +99,19 @@ Projet web consacré à la création d’une carte d’invitation numérique.
 
 ### Me contacter
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-B8A1E3?style=flat-square&logo=googlechrome&logoColor=white)](https://chirelhalioua.fr/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E9ECF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirel-halioua)
-[![E-mail](https://img.shields.io/badge/E--mail-D98292?style=flat-square&logo=gmail&logoColor=white)](mailto:chirelhalioua@gmail.com)
+<p align="center">
+<a href="https://chirelhalioua.fr/" title="Portfolio">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Chrome.svg" width="30" height="30" alt="Portfolio">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chirel-halioua" title="LinkedIn">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="30" height="30" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:chirelhalioua@gmail.com" title="E-mail">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="30" height="30" alt="E-mail">
+</a>
+</p>
 
 <br>
 
