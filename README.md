@@ -71,7 +71,7 @@ L’utilisateur découvre une situation, observe un changement avec « ET SI… 
 Application web de suivi des émotions inspirée de l’univers de Louis de Funès.  
 Elle permet de choisir son humeur et de suivre son évolution au fil du temps.
 
-<a href="https://suivi-humeurs-funes.vercel.app/" target="_blank" rel="noopener noreferrer">↗️ Tester le projet</a>
+<a href="https://les-humeurs-a-la-funes-flax.vercel.app/" target="_blank" rel="noopener noreferrer">↗️ Tester le projet</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/chirelhalioua/suivi-humeurs-funes" target="_blank" rel="noopener noreferrer">⌨️ Voir le code</a>
 
